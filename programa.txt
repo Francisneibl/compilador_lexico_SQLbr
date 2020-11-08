@@ -1,0 +1,3 @@
+MOSTRAR campo DE tabela ONDE nome = "test";
+ATUALIZA tabela COMO nome = "maria" ONDE sexo CONTENHA "feminino";
+APAGAR_DE tabela ONDE idade >= 90 OU idade <= 10.5;
